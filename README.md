@@ -1,4 +1,4 @@
-# Week - Lab Name
+# Week 10 - Narrative Design
 Short blurb about what today's lab is.
 
 ## Tools used
