@@ -26,6 +26,8 @@ While we can use the standard, boring token designs in playingcards.io, we can a
 
 Then, select "Custom Pieces Collection" to start from scratch. This will create a Pieces Collection on your game board. When you select it, you'll be able to edit the collection on the right side of the screen. Click "Template" to open the editor for all pieces in this collection.
 
+![Template](images/template.png)
+
 From here, you can add images and text to the piece. Think about what these tokens should look like in your game. Consider:
 
 * What is the behaviour of the resources you are collecting? What does this mirror in real life?
