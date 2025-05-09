@@ -121,7 +121,7 @@ Firstly, formulate a good prompt. You want your prompt to Copilot to:
 
 See below for what I sent to Copilot and received back:
 
-![Copilot chat](images/copilotchat.png)
+![Copilot chat](images/copilotchat1.png)
 
 Hmm...some good responses there, although the relic cards a bit too generic, and have a few statements in there that don't really fit the style of my game, like "This ancient artifact hums with forgotten energy". In fact, I think I've seen that in another game! As a narrative designer, I now can think about how to make these stronger. I could stop using Generative AI at this stage, or I could try to get some of these re-written. Now I want to think about the more specific details of my narrative design. How do I want this flavour text to sound? Perhaps it could come from a particular character, or be written as if from an in-game text like a grimoire or field report. Apply this to your own game and consider what makes the most sense in your world (no, don't ask Generative AI for this! This is where you are doing design thinking!). Here's my next shot:
 
